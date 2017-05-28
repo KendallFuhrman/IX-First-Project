@@ -149,6 +149,7 @@
 				TargetAttributes = {
 					6F78BCF91EDADDBF003087DC = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 866JLEMQEN;
 						ProvisioningStyle = Automatic;
 					};
 					6F78BD0F1EDADDBF003087DC = {
@@ -345,6 +346,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 866JLEMQEN;
 				INFOPLIST_FILE = IXX/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kendall.fuhrman.com.IXX;
@@ -357,6 +359,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 866JLEMQEN;
 				INFOPLIST_FILE = IXX/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kendall.fuhrman.com.IXX;
